@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Currency Compass** does not collect or share any personal information.
+**Convert IQ** does not collect or share any personal information.
 
 The app operates fully offline and does not transmit or store any user data to any server or third-party service.
 
